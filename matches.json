@@ -1,0 +1,1178 @@
+[
+  {
+    "home_team": "Burnley",
+    "away_team": "Manchester City",
+    "date": "2023-08-11T19:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Nottingham Forest",
+    "date": "2023-08-12T11:30:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "West Ham",
+    "date": "2023-08-12T14:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Fulham",
+    "date": "2023-08-12T14:00:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Luton",
+    "date": "2023-08-12T14:00:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Crystal Palace",
+    "date": "2023-08-12T14:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "date": "2023-08-12T16:30:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Tottenham",
+    "date": "2023-08-13T13:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Liverpool",
+    "date": "2023-08-13T15:30:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Wolves",
+    "date": "2023-08-14T19:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Sheffield Utd",
+    "date": "2023-08-18T18:45:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Brentford",
+    "date": "2023-08-19T14:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Brighton",
+    "date": "2023-08-19T14:00:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Bournemouth",
+    "date": "2023-08-19T14:00:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Manchester United",
+    "date": "2023-08-19T16:30:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Newcastle",
+    "date": "2023-08-19T19:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Everton",
+    "date": "2023-08-20T13:00:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Chelsea",
+    "date": "2023-08-20T15:30:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Arsenal",
+    "date": "2023-08-21T19:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Luton",
+    "date": "2023-08-25T19:00:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Tottenham",
+    "date": "2023-08-26T11:30:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Nottingham Forest",
+    "date": "2023-08-26T14:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Fulham",
+    "date": "2023-08-26T14:00:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Wolves",
+    "date": "2023-08-26T14:00:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Crystal Palace",
+    "date": "2023-08-26T14:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "West Ham",
+    "date": "2023-08-26T16:30:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Aston Villa",
+    "date": "2023-08-27T13:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Manchester City",
+    "date": "2023-08-27T13:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Liverpool",
+    "date": "2023-08-27T15:30:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "West Ham",
+    "date": "2023-09-01T19:00:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Everton",
+    "date": "2023-09-02T11:30:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Tottenham",
+    "date": "2023-09-02T14:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Nottingham Forest",
+    "date": "2023-09-02T14:00:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Fulham",
+    "date": "2023-09-02T14:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Bournemouth",
+    "date": "2023-09-02T14:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Newcastle",
+    "date": "2023-09-02T16:30:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Aston Villa",
+    "date": "2023-09-03T13:00:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Wolves",
+    "date": "2023-09-03T13:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Manchester United",
+    "date": "2023-09-03T15:30:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Liverpool",
+    "date": "2023-09-16T11:30:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Brighton",
+    "date": "2023-09-16T14:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Luton",
+    "date": "2023-09-16T14:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Sheffield Utd",
+    "date": "2023-09-16T14:00:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Manchester City",
+    "date": "2023-09-16T14:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Crystal Palace",
+    "date": "2023-09-16T14:00:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Brentford",
+    "date": "2023-09-16T16:30:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Chelsea",
+    "date": "2023-09-17T13:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "date": "2023-09-17T15:30:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Burnley",
+    "date": "2023-09-18T18:45:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Nottingham Forest",
+    "date": "2023-09-23T14:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Fulham",
+    "date": "2023-09-23T14:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Wolves",
+    "date": "2023-09-23T14:00:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Everton",
+    "date": "2023-09-23T16:30:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Manchester United",
+    "date": "2023-09-23T19:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "West Ham",
+    "date": "2023-09-24T13:00:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Tottenham",
+    "date": "2023-09-24T13:00:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Aston Villa",
+    "date": "2023-09-24T13:00:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Bournemouth",
+    "date": "2023-09-24T13:00:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Newcastle",
+    "date": "2023-09-24T15:30:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Brighton",
+    "date": "2023-09-30T11:30:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Crystal Palace",
+    "date": "2023-09-30T14:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Burnley",
+    "date": "2023-09-30T14:00:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Arsenal",
+    "date": "2023-09-30T14:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Manchester City",
+    "date": "2023-09-30T14:00:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Luton",
+    "date": "2023-09-30T14:00:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Sheffield Utd",
+    "date": "2023-09-30T14:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Liverpool",
+    "date": "2023-09-30T16:30:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Brentford",
+    "date": "2023-10-01T13:00:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Chelsea",
+    "date": "2023-10-02T19:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Burnley",
+    "date": "2023-10-03T18:30:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Tottenham",
+    "date": "2023-10-07T11:30:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Brentford",
+    "date": "2023-10-07T14:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Sheffield Utd",
+    "date": "2023-10-07T14:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Chelsea",
+    "date": "2023-10-07T14:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Bournemouth",
+    "date": "2023-10-07T14:00:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Nottingham Forest",
+    "date": "2023-10-07T16:30:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Aston Villa",
+    "date": "2023-10-08T13:00:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Newcastle",
+    "date": "2023-10-08T13:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Liverpool",
+    "date": "2023-10-08T13:00:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Manchester City",
+    "date": "2023-10-08T15:30:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Everton",
+    "date": "2023-10-21T11:30:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Crystal Palace",
+    "date": "2023-10-21T14:00:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Wolves",
+    "date": "2023-10-21T14:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Brighton",
+    "date": "2023-10-21T14:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Burnley",
+    "date": "2023-10-21T14:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Luton",
+    "date": "2023-10-21T14:00:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Arsenal",
+    "date": "2023-10-21T16:30:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Manchester United",
+    "date": "2023-10-21T19:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "date": "2023-10-22T15:30:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Fulham",
+    "date": "2023-10-23T19:00:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Tottenham",
+    "date": "2023-10-27T19:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Brentford",
+    "date": "2023-10-28T11:30:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Burnley",
+    "date": "2023-10-28T14:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Sheffield Utd",
+    "date": "2023-10-28T14:00:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Newcastle",
+    "date": "2023-10-28T16:30:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "date": "2023-10-29T13:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Nottingham Forest",
+    "date": "2023-10-29T14:00:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Fulham",
+    "date": "2023-10-29T14:00:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Luton",
+    "date": "2023-10-29T14:00:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Manchester City",
+    "date": "2023-10-29T15:30:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Manchester United",
+    "date": "2023-11-04T12:30:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Crystal Palace",
+    "date": "2023-11-04T15:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Brighton",
+    "date": "2023-11-04T15:00:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Bournemouth",
+    "date": "2023-11-04T15:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "West Ham",
+    "date": "2023-11-04T15:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Wolves",
+    "date": "2023-11-04T15:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Arsenal",
+    "date": "2023-11-04T17:30:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Aston Villa",
+    "date": "2023-11-05T14:00:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Liverpool",
+    "date": "2023-11-05T16:30:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Chelsea",
+    "date": "2023-11-06T20:00:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Tottenham",
+    "date": "2023-11-11T12:30:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Luton",
+    "date": "2023-11-11T15:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Burnley",
+    "date": "2023-11-11T15:00:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Everton",
+    "date": "2023-11-11T15:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Newcastle",
+    "date": "2023-11-11T17:30:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Brentford",
+    "date": "2023-11-12T14:00:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Nottingham Forest",
+    "date": "2023-11-12T14:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Sheffield Utd",
+    "date": "2023-11-12T14:00:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Fulham",
+    "date": "2023-11-12T14:00:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Manchester City",
+    "date": "2023-11-12T16:30:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Liverpool",
+    "date": "2023-11-25T12:30:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Chelsea",
+    "date": "2023-11-25T15:00:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "West Ham",
+    "date": "2023-11-25T15:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Bournemouth",
+    "date": "2023-11-25T15:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Brighton",
+    "date": "2023-11-25T15:00:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Crystal Palace",
+    "date": "2023-11-25T15:00:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Arsenal",
+    "date": "2023-11-25T17:30:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Aston Villa",
+    "date": "2023-11-26T14:00:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Manchester United",
+    "date": "2023-11-26T16:30:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Wolves",
+    "date": "2023-11-27T20:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Wolves",
+    "date": "2023-12-02T15:00:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Sheffield Utd",
+    "date": "2023-12-02T15:00:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Luton",
+    "date": "2023-12-02T15:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Everton",
+    "date": "2023-12-02T17:30:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Manchester United",
+    "date": "2023-12-02T20:00:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Aston Villa",
+    "date": "2023-12-03T14:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Fulham",
+    "date": "2023-12-03T14:00:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Crystal Palace",
+    "date": "2023-12-03T14:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Brighton",
+    "date": "2023-12-03T14:00:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "date": "2023-12-03T16:30:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Burnley",
+    "date": "2023-12-05T19:30:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Arsenal",
+    "date": "2023-12-05T20:15:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Nottingham Forest",
+    "date": "2023-12-06T19:30:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Brentford",
+    "date": "2023-12-06T19:30:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Bournemouth",
+    "date": "2023-12-06T19:30:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Liverpool",
+    "date": "2023-12-06T19:30:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Chelsea",
+    "date": "2023-12-06T20:15:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Manchester City",
+    "date": "2023-12-06T20:15:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Newcastle",
+    "date": "2023-12-07T19:30:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "West Ham",
+    "date": "2023-12-07T20:15:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Liverpool",
+    "date": "2023-12-09T12:30:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Bournemouth",
+    "date": "2023-12-09T15:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Nottingham Forest",
+    "date": "2023-12-09T15:00:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Burnley",
+    "date": "2023-12-09T15:00:00+00:00",
+    "local": "The American Express Community Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Brentford",
+    "date": "2023-12-09T15:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Arsenal",
+    "date": "2023-12-09T17:30:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "West Ham",
+    "date": "2023-12-10T14:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Chelsea",
+    "date": "2023-12-10T14:00:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Manchester City",
+    "date": "2023-12-10T14:00:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "date": "2023-12-10T16:30:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Tottenham",
+    "date": "2023-12-15T20:00:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Fulham",
+    "date": "2023-12-16T15:00:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Sheffield Utd",
+    "date": "2023-12-16T15:00:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Crystal Palace",
+    "date": "2023-12-16T15:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Everton",
+    "date": "2023-12-16T17:30:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "Brighton",
+    "date": "2023-12-17T14:00:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Wolves",
+    "date": "2023-12-17T14:00:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Aston Villa",
+    "date": "2023-12-17T14:00:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Manchester United",
+    "date": "2023-12-17T16:30:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Brighton",
+    "date": "2023-12-21T20:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Sheffield Utd",
+    "date": "2023-12-22T20:00:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "West Ham",
+    "away_team": "Manchester United",
+    "date": "2023-12-23T12:30:00+00:00",
+    "local": "London Stadium, London"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Burnley",
+    "date": "2023-12-23T15:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Everton",
+    "date": "2023-12-23T15:00:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Bournemouth",
+    "date": "2023-12-23T15:00:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Newcastle",
+    "date": "2023-12-23T15:00:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Liverpool",
+    "away_team": "Arsenal",
+    "date": "2023-12-23T17:30:00+00:00",
+    "local": "Anfield, Liverpool"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Chelsea",
+    "date": "2023-12-24T13:00:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Newcastle",
+    "away_team": "Nottingham Forest",
+    "date": "2023-12-26T12:30:00+00:00",
+    "local": "St. James' Park, Newcastle upon Tyne"
+  },
+  {
+    "home_team": "Bournemouth",
+    "away_team": "Fulham",
+    "date": "2023-12-26T15:00:00+00:00",
+    "local": "Vitality Stadium, Bournemouth, Dorset"
+  },
+  {
+    "home_team": "Sheffield Utd",
+    "away_team": "Luton",
+    "date": "2023-12-26T15:00:00+00:00",
+    "local": "Bramall Lane, Sheffield"
+  },
+  {
+    "home_team": "Burnley",
+    "away_team": "Liverpool",
+    "date": "2023-12-26T17:30:00+00:00",
+    "local": "Turf Moor, Burnley"
+  },
+  {
+    "home_team": "Manchester United",
+    "away_team": "Aston Villa",
+    "date": "2023-12-26T20:00:00+00:00",
+    "local": "Old Trafford, Manchester"
+  },
+  {
+    "home_team": "Chelsea",
+    "away_team": "Crystal Palace",
+    "date": "2023-12-27T19:30:00+00:00",
+    "local": "Stamford Bridge, London"
+  },
+  {
+    "home_team": "Brentford",
+    "away_team": "Wolves",
+    "date": "2023-12-27T19:30:00+00:00",
+    "local": "Gtech Community Stadium, Brentford, Middlesex"
+  },
+  {
+    "home_team": "Everton",
+    "away_team": "Manchester City",
+    "date": "2023-12-27T20:15:00+00:00",
+    "local": "Goodison Park, Liverpool"
+  },
+  {
+    "home_team": "Brighton",
+    "away_team": "Tottenham",
+    "date": "2023-12-28T19:30:00+00:00",
+    "local": "American Express Stadium, Falmer, East Sussex"
+  },
+  {
+    "home_team": "Arsenal",
+    "away_team": "West Ham",
+    "date": "2023-12-28T20:15:00+00:00",
+    "local": "Emirates Stadium, London"
+  },
+  {
+    "home_team": "Luton",
+    "away_team": "Chelsea",
+    "date": "2023-12-30T12:30:00+00:00",
+    "local": "Kenilworth Road, Luton, Bedfordshire"
+  },
+  {
+    "home_team": "Wolves",
+    "away_team": "Everton",
+    "date": "2023-12-30T15:00:00+00:00",
+    "local": "Molineux Stadium, Wolverhampton, West Midlands"
+  },
+  {
+    "home_team": "Manchester City",
+    "away_team": "Sheffield Utd",
+    "date": "2023-12-30T15:00:00+00:00",
+    "local": "Etihad Stadium, Manchester"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "away_team": "Brentford",
+    "date": "2023-12-30T15:00:00+00:00",
+    "local": "Selhurst Park, London"
+  },
+  {
+    "home_team": "Aston Villa",
+    "away_team": "Burnley",
+    "date": "2023-12-30T15:00:00+00:00",
+    "local": "Villa Park, Birmingham"
+  },
+  {
+    "home_team": "Nottingham Forest",
+    "away_team": "Manchester United",
+    "date": "2023-12-30T17:30:00+00:00",
+    "local": "The City Ground, Nottingham, Nottinghamshire"
+  },
+  {
+    "home_team": "Fulham",
+    "away_team": "Arsenal",
+    "date": "2023-12-31T14:00:00+00:00",
+    "local": "Craven Cottage, London"
+  },
+  {
+    "home_team": "Tottenham",
+    "away_team": "Bournemouth",
+    "date": "2023-12-31T14:00:00+00:00",
+    "local": "Tottenham Hotspur Stadium, London"
+  }
+]
