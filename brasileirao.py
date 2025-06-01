@@ -27,9 +27,7 @@ for match in data.get("response", []):
     date = match["fixture"]["date"]
 
     venue = match["fixture"].get("venue", {})
-    stadium = venue.get("name", "Desconhecido")
-    city = venue.get("city", "")
-    local = f"{stadium}, {city}".strip().strip(",")
+    local = venue
 
     all_matches.append({
         "home_team": home_team,

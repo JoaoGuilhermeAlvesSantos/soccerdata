@@ -3,858 +3,1430 @@
     "home_team": "Werder Bremen",
     "away_team": "Bayern Munich",
     "date": "2023-08-18T18:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "FC Heidenheim",
     "date": "2023-08-19T13:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "SC Freiburg",
     "date": "2023-08-19T13:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "RB Leipzig",
     "date": "2023-08-19T13:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-08-19T13:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "Vfl Bochum",
     "date": "2023-08-19T13:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "1.FC Köln",
     "date": "2023-08-19T16:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "FSV Mainz 05",
     "date": "2023-08-20T13:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "SV Darmstadt 98",
     "date": "2023-08-20T15:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "VfB Stuttgart",
     "date": "2023-08-25T18:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "Werder Bremen",
     "date": "2023-08-26T13:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "Borussia Dortmund",
     "date": "2023-08-26T13:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "1899 Hoffenheim",
     "date": "2023-08-26T13:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "Union Berlin",
     "date": "2023-08-26T13:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "VfL Wolfsburg",
     "date": "2023-08-26T13:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "Bayer Leverkusen",
     "date": "2023-08-26T16:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-08-27T13:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "FC Augsburg",
     "date": "2023-08-27T15:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "FC Heidenheim",
     "date": "2023-09-01T18:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "FSV Mainz 05",
     "date": "2023-09-02T13:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "VfL Wolfsburg",
     "date": "2023-09-02T13:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "SV Darmstadt 98",
     "date": "2023-09-02T13:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "Vfl Bochum",
     "date": "2023-09-02T13:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "SC Freiburg",
     "date": "2023-09-02T13:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "Bayern Munich",
     "date": "2023-09-02T16:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "1.FC Köln",
     "date": "2023-09-03T13:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "RB Leipzig",
     "date": "2023-09-03T15:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "Bayer Leverkusen",
     "date": "2023-09-15T18:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "Borussia Dortmund",
     "date": "2023-09-16T13:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "Union Berlin",
     "date": "2023-09-16T13:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "VfB Stuttgart",
     "date": "2023-09-16T13:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "FC Augsburg",
     "date": "2023-09-16T13:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "1899 Hoffenheim",
     "date": "2023-09-16T13:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-09-16T16:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "Werder Bremen",
     "date": "2023-09-17T13:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-09-17T15:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "SV Darmstadt 98",
     "date": "2023-09-22T18:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "Vfl Bochum",
     "date": "2023-09-23T13:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "RB Leipzig",
     "date": "2023-09-23T13:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "VfL Wolfsburg",
     "date": "2023-09-23T13:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "FSV Mainz 05",
     "date": "2023-09-23T13:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "1899 Hoffenheim",
     "date": "2023-09-23T13:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "1.FC Köln",
     "date": "2023-09-23T16:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "FC Heidenheim",
     "date": "2023-09-24T13:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "SC Freiburg",
     "date": "2023-09-24T15:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "Borussia Dortmund",
     "date": "2023-09-29T18:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-09-30T13:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "Bayer Leverkusen",
     "date": "2023-09-30T13:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-09-30T13:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "Union Berlin",
     "date": "2023-09-30T13:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "VfB Stuttgart",
     "date": "2023-09-30T13:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "Bayern Munich",
     "date": "2023-09-30T16:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "Werder Bremen",
     "date": "2023-10-01T13:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "FC Augsburg",
     "date": "2023-10-01T15:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "FSV Mainz 05",
     "date": "2023-10-06T18:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "Union Berlin",
     "date": "2023-10-07T13:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "SV Darmstadt 98",
     "date": "2023-10-07T13:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "VfL Wolfsburg",
     "date": "2023-10-07T13:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "Vfl Bochum",
     "date": "2023-10-07T13:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "1899 Hoffenheim",
     "date": "2023-10-07T16:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "1.FC Köln",
     "date": "2023-10-08T13:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "SC Freiburg",
     "date": "2023-10-08T15:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "FC Heidenheim",
     "date": "2023-10-08T17:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "Werder Bremen",
     "date": "2023-10-20T18:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "Vfl Bochum",
     "date": "2023-10-21T13:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "Bayer Leverkusen",
     "date": "2023-10-21T13:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-10-21T13:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "RB Leipzig",
     "date": "2023-10-21T13:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "VfB Stuttgart",
     "date": "2023-10-21T13:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "Bayern Munich",
     "date": "2023-10-21T16:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-10-22T13:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "FC Augsburg",
     "date": "2023-10-22T15:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "FSV Mainz 05",
     "date": "2023-10-27T18:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "SV Darmstadt 98",
     "date": "2023-10-28T13:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "Union Berlin",
     "date": "2023-10-28T13:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "FC Heidenheim",
     "date": "2023-10-28T13:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "VfL Wolfsburg",
     "date": "2023-10-28T13:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "1899 Hoffenheim",
     "date": "2023-10-28T13:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "1.FC Köln",
     "date": "2023-10-28T16:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "Borussia Dortmund",
     "date": "2023-10-29T14:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "SC Freiburg",
     "date": "2023-10-29T16:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "Vfl Bochum",
     "date": "2023-11-03T19:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-11-04T14:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "RB Leipzig",
     "date": "2023-11-04T14:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "Bayer Leverkusen",
     "date": "2023-11-04T14:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-11-04T14:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "FC Augsburg",
     "date": "2023-11-04T14:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "Bayern Munich",
     "date": "2023-11-04T17:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "Werder Bremen",
     "date": "2023-11-05T14:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "VfB Stuttgart",
     "date": "2023-11-05T16:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "VfL Wolfsburg",
     "date": "2023-11-10T19:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "FC Heidenheim",
     "date": "2023-11-11T14:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "1899 Hoffenheim",
     "date": "2023-11-11T14:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "Borussia Dortmund",
     "date": "2023-11-11T14:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "FSV Mainz 05",
     "date": "2023-11-11T14:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "1.FC Köln",
     "date": "2023-11-11T17:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "Union Berlin",
     "date": "2023-11-12T14:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-11-12T16:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "SC Freiburg",
     "date": "2023-11-12T18:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "Bayern Munich",
     "date": "2023-11-24T19:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "SV Darmstadt 98",
     "date": "2023-11-25T14:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "RB Leipzig",
     "date": "2023-11-25T14:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "Bayer Leverkusen",
     "date": "2023-11-25T14:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-11-25T14:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "FC Augsburg",
     "date": "2023-11-25T14:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "VfB Stuttgart",
     "date": "2023-11-25T17:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "Vfl Bochum",
     "date": "2023-11-26T14:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "FSV Mainz 05",
     "date": "2023-11-26T16:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "1.FC Köln",
     "date": "2023-12-01T19:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "1899 Hoffenheim",
     "date": "2023-12-02T14:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "FC Heidenheim",
     "date": "2023-12-02T14:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "VfL Wolfsburg",
     "date": "2023-12-02T14:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "Werder Bremen",
     "date": "2023-12-02T17:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "SC Freiburg",
     "date": "2023-12-03T14:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "Borussia Dortmund",
     "date": "2023-12-03T16:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-12-03T18:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "Vfl Bochum",
     "date": "2023-12-08T19:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "SC Freiburg",
     "date": "2023-12-09T14:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "FC Augsburg",
     "date": "2023-12-09T14:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "Bayern Munich",
     "date": "2023-12-09T14:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "SV Darmstadt 98",
     "date": "2023-12-09T14:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-12-09T14:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "RB Leipzig",
     "date": "2023-12-09T17:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "Bayer Leverkusen",
     "date": "2023-12-10T14:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "1.FC Köln",
     "away_team": "FSV Mainz 05",
     "date": "2023-12-10T16:30:00+00:00",
-    "local": "Cologne Stadium, Köln"
+    "local": {
+      "id": 20736,
+      "name": "Cologne Stadium",
+      "city": "Köln"
+    }
   },
   {
     "home_team": "Borussia Monchengladbach",
     "away_team": "Werder Bremen",
     "date": "2023-12-15T19:30:00+00:00",
-    "local": "BORUSSIA-PARK, Mönchengladbach"
+    "local": {
+      "id": 20471,
+      "name": "BORUSSIA-PARK",
+      "city": "Mönchengladbach"
+    }
   },
   {
     "home_team": "FSV Mainz 05",
     "away_team": "FC Heidenheim",
     "date": "2023-12-16T14:30:00+00:00",
-    "local": "MEWA ARENA, Mainz"
+    "local": {
+      "id": 11899,
+      "name": "MEWA ARENA",
+      "city": "Mainz"
+    }
   },
   {
     "home_team": "FC Augsburg",
     "away_team": "Borussia Dortmund",
     "date": "2023-12-16T14:30:00+00:00",
-    "local": "WWK Arena, Augsburg"
+    "local": {
+      "id": 698,
+      "name": "WWK Arena",
+      "city": "Augsburg"
+    }
   },
   {
     "home_team": "Vfl Bochum",
     "away_team": "Union Berlin",
     "date": "2023-12-16T14:30:00+00:00",
-    "local": "Vonovia Ruhrstadion, Bochum"
+    "local": {
+      "id": 751,
+      "name": "Vonovia Ruhrstadion",
+      "city": "Bochum"
+    }
   },
   {
     "home_team": "SV Darmstadt 98",
     "away_team": "VfL Wolfsburg",
     "date": "2023-12-16T14:30:00+00:00",
-    "local": "Merck-Stadion am Böllenfalltor, Darmstadt"
+    "local": {
+      "id": 705,
+      "name": "Merck-Stadion am Böllenfalltor",
+      "city": "Darmstadt"
+    }
   },
   {
     "home_team": "RB Leipzig",
     "away_team": "1899 Hoffenheim",
     "date": "2023-12-16T17:30:00+00:00",
-    "local": "Leipzig Stadium, Leipzig"
+    "local": {
+      "id": 20737,
+      "name": "Leipzig Stadium",
+      "city": "Leipzig"
+    }
   },
   {
     "home_team": "SC Freiburg",
     "away_team": "1.FC Köln",
     "date": "2023-12-17T14:30:00+00:00",
-    "local": "Europa-Park Stadion, Freiburg im Breisgau"
+    "local": {
+      "id": 12717,
+      "name": "Europa-Park Stadion",
+      "city": "Freiburg im Breisgau"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "Eintracht Frankfurt",
     "date": "2023-12-17T16:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "Bayern Munich",
     "away_team": "VfB Stuttgart",
     "date": "2023-12-17T18:30:00+00:00",
-    "local": "Fußball Arena München, München"
+    "local": {
+      "id": 20732,
+      "name": "Fußball Arena München",
+      "city": "München"
+    }
   },
   {
     "home_team": "Werder Bremen",
     "away_team": "RB Leipzig",
     "date": "2023-12-19T17:30:00+00:00",
-    "local": "wohninvest WESERSTADION, Bremen"
+    "local": {
+      "id": 755,
+      "name": "wohninvest WESERSTADION",
+      "city": "Bremen"
+    }
   },
   {
     "home_team": "Borussia Dortmund",
     "away_team": "FSV Mainz 05",
     "date": "2023-12-19T19:30:00+00:00",
-    "local": "BVB Stadion Dortmund, Dortmund"
+    "local": {
+      "id": 20733,
+      "name": "BVB Stadion Dortmund",
+      "city": "Dortmund"
+    }
   },
   {
     "home_team": "1899 Hoffenheim",
     "away_team": "SV Darmstadt 98",
     "date": "2023-12-19T19:30:00+00:00",
-    "local": "PreZero Arena, Sinsheim"
+    "local": {
+      "id": 724,
+      "name": "PreZero Arena",
+      "city": "Sinsheim"
+    }
   },
   {
     "home_team": "Union Berlin",
     "away_team": "1.FC Köln",
     "date": "2023-12-20T17:30:00+00:00",
-    "local": "Stadion An der Alten Försterei, Berlin"
+    "local": {
+      "id": 748,
+      "name": "Stadion An der Alten Försterei",
+      "city": "Berlin"
+    }
   },
   {
     "home_team": "VfL Wolfsburg",
     "away_team": "Bayern Munich",
     "date": "2023-12-20T19:30:00+00:00",
-    "local": "Volkswagen Arena, Wolfsburg"
+    "local": {
+      "id": 752,
+      "name": "Volkswagen Arena",
+      "city": "Wolfsburg"
+    }
   },
   {
     "home_team": "Bayer Leverkusen",
     "away_team": "Vfl Bochum",
     "date": "2023-12-20T19:30:00+00:00",
-    "local": "BayArena, Leverkusen"
+    "local": {
+      "id": 699,
+      "name": "BayArena",
+      "city": "Leverkusen"
+    }
   },
   {
     "home_team": "Eintracht Frankfurt",
     "away_team": "Borussia Monchengladbach",
     "date": "2023-12-20T19:30:00+00:00",
-    "local": "Frankfurt Arena, Frankfurt am Main"
+    "local": {
+      "id": 20734,
+      "name": "Frankfurt Arena",
+      "city": "Frankfurt am Main"
+    }
   },
   {
     "home_team": "VfB Stuttgart",
     "away_team": "FC Augsburg",
     "date": "2023-12-20T19:30:00+00:00",
-    "local": "Stuttgart Arena, Stuttgart"
+    "local": {
+      "id": 20739,
+      "name": "Stuttgart Arena",
+      "city": "Stuttgart"
+    }
   },
   {
     "home_team": "FC Heidenheim",
     "away_team": "SC Freiburg",
     "date": "2023-12-20T19:30:00+00:00",
-    "local": "Voith-Arena, Heidenheim an der Brenz"
+    "local": {
+      "id": 723,
+      "name": "Voith-Arena",
+      "city": "Heidenheim an der Brenz"
+    }
   }
 ]
