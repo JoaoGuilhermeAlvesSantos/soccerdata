@@ -1,0 +1,1082 @@
+[
+  {
+    "home_team": "Empoli",
+    "away_team": "Verona",
+    "date": "2023-08-19T16:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Napoli",
+    "date": "2023-08-19T16:30:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Fiorentina",
+    "date": "2023-08-19T18:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Monza",
+    "date": "2023-08-19T18:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Atalanta",
+    "date": "2023-08-20T16:30:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Salernitana",
+    "date": "2023-08-20T16:30:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Juventus",
+    "date": "2023-08-20T18:45:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Lazio",
+    "date": "2023-08-20T18:45:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Cagliari",
+    "date": "2023-08-21T16:30:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "AC Milan",
+    "date": "2023-08-21T18:45:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Atalanta",
+    "date": "2023-08-26T16:30:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Empoli",
+    "date": "2023-08-26T16:30:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Torino",
+    "date": "2023-08-26T18:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "AS Roma",
+    "date": "2023-08-26T18:45:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Bologna",
+    "date": "2023-08-27T16:30:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Lecce",
+    "date": "2023-08-27T16:30:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Genoa",
+    "date": "2023-08-27T18:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Sassuolo",
+    "date": "2023-08-27T18:45:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Udinese",
+    "date": "2023-08-28T16:30:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Inter",
+    "date": "2023-08-28T18:45:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Verona",
+    "date": "2023-09-01T16:30:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "AC Milan",
+    "date": "2023-09-01T18:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Frosinone",
+    "date": "2023-09-02T16:30:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Cagliari",
+    "date": "2023-09-02T16:30:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Lazio",
+    "date": "2023-09-02T18:45:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Monza",
+    "date": "2023-09-02T18:45:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Genoa",
+    "date": "2023-09-03T16:30:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Fiorentina",
+    "date": "2023-09-03T16:30:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Juventus",
+    "date": "2023-09-03T18:45:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Salernitana",
+    "date": "2023-09-03T18:45:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Lazio",
+    "date": "2023-09-16T13:00:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "AC Milan",
+    "date": "2023-09-16T16:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Napoli",
+    "date": "2023-09-16T18:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Udinese",
+    "date": "2023-09-17T10:30:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Sassuolo",
+    "date": "2023-09-17T13:00:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Lecce",
+    "date": "2023-09-17T13:00:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Atalanta",
+    "date": "2023-09-17T16:00:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Empoli",
+    "date": "2023-09-17T18:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Torino",
+    "date": "2023-09-18T16:30:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Bologna",
+    "date": "2023-09-18T18:45:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Frosinone",
+    "date": "2023-09-22T16:30:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Genoa",
+    "date": "2023-09-22T18:45:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Verona",
+    "date": "2023-09-23T13:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Juventus",
+    "date": "2023-09-23T16:00:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Monza",
+    "date": "2023-09-23T18:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Inter",
+    "date": "2023-09-24T10:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Fiorentina",
+    "date": "2023-09-24T13:00:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Cagliari",
+    "date": "2023-09-24T13:00:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Napoli",
+    "date": "2023-09-24T16:00:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "AS Roma",
+    "date": "2023-09-24T18:45:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Lecce",
+    "date": "2023-09-26T18:45:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "AC Milan",
+    "date": "2023-09-27T16:30:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Atalanta",
+    "date": "2023-09-27T16:30:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Salernitana",
+    "date": "2023-09-27T16:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Torino",
+    "date": "2023-09-27T18:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Udinese",
+    "date": "2023-09-27T18:45:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Sassuolo",
+    "date": "2023-09-27T18:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Fiorentina",
+    "date": "2023-09-28T16:30:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Bologna",
+    "date": "2023-09-28T16:30:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "AS Roma",
+    "date": "2023-09-28T18:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Napoli",
+    "date": "2023-09-30T13:00:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Lazio",
+    "date": "2023-09-30T16:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Inter",
+    "date": "2023-09-30T18:45:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Empoli",
+    "date": "2023-10-01T10:30:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Genoa",
+    "date": "2023-10-01T13:00:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Juventus",
+    "date": "2023-10-01T16:00:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Frosinone",
+    "date": "2023-10-01T18:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Monza",
+    "date": "2023-10-02T16:30:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Verona",
+    "date": "2023-10-02T16:30:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Cagliari",
+    "date": "2023-10-02T18:45:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Udinese",
+    "date": "2023-10-06T16:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Sassuolo",
+    "date": "2023-10-06T18:45:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Bologna",
+    "date": "2023-10-07T13:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Torino",
+    "date": "2023-10-07T16:00:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "AC Milan",
+    "date": "2023-10-07T18:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Salernitana",
+    "date": "2023-10-08T10:30:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Atalanta",
+    "date": "2023-10-08T13:00:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Verona",
+    "date": "2023-10-08T13:00:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "AS Roma",
+    "date": "2023-10-08T16:00:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Fiorentina",
+    "date": "2023-10-08T18:45:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Napoli",
+    "date": "2023-10-21T13:00:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Inter",
+    "date": "2023-10-21T16:00:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Lazio",
+    "date": "2023-10-21T18:45:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Monza",
+    "date": "2023-10-22T10:30:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Frosinone",
+    "date": "2023-10-22T13:00:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Cagliari",
+    "date": "2023-10-22T13:00:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Genoa",
+    "date": "2023-10-22T16:00:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Juventus",
+    "date": "2023-10-22T18:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Lecce",
+    "date": "2023-10-23T16:30:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Empoli",
+    "date": "2023-10-23T18:45:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Salernitana",
+    "date": "2023-10-27T18:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Bologna",
+    "date": "2023-10-28T13:00:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Torino",
+    "date": "2023-10-28T16:00:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Verona",
+    "date": "2023-10-28T18:45:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Frosinone",
+    "date": "2023-10-29T11:30:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Udinese",
+    "date": "2023-10-29T14:00:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "AS Roma",
+    "date": "2023-10-29T17:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "AC Milan",
+    "date": "2023-10-29T19:45:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Atalanta",
+    "date": "2023-10-30T17:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Fiorentina",
+    "date": "2023-10-30T19:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Lazio",
+    "date": "2023-11-03T19:45:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Napoli",
+    "date": "2023-11-04T14:00:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Inter",
+    "date": "2023-11-04T17:00:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Udinese",
+    "date": "2023-11-04T19:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Monza",
+    "date": "2023-11-05T11:30:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Genoa",
+    "date": "2023-11-05T14:00:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Lecce",
+    "date": "2023-11-05T17:00:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Juventus",
+    "date": "2023-11-05T19:45:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Empoli",
+    "date": "2023-11-06T17:30:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Sassuolo",
+    "date": "2023-11-06T19:45:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Salernitana",
+    "date": "2023-11-10T17:30:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Verona",
+    "date": "2023-11-10T19:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "AC Milan",
+    "date": "2023-11-11T14:00:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Cagliari",
+    "date": "2023-11-11T17:00:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Torino",
+    "date": "2023-11-11T19:45:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Empoli",
+    "date": "2023-11-12T11:30:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Atalanta",
+    "date": "2023-11-12T14:00:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Bologna",
+    "date": "2023-11-12T14:00:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "AS Roma",
+    "date": "2023-11-12T17:00:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Frosinone",
+    "date": "2023-11-12T19:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Lazio",
+    "date": "2023-11-25T14:00:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Napoli",
+    "date": "2023-11-25T17:00:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Fiorentina",
+    "date": "2023-11-25T19:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Monza",
+    "date": "2023-11-26T11:30:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Sassuolo",
+    "date": "2023-11-26T14:00:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Genoa",
+    "date": "2023-11-26T14:00:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Udinese",
+    "date": "2023-11-26T17:00:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Inter",
+    "date": "2023-11-26T19:45:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Lecce",
+    "date": "2023-11-27T17:30:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Torino",
+    "date": "2023-11-27T19:45:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Juventus",
+    "date": "2023-12-01T19:45:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Empoli",
+    "date": "2023-12-02T14:00:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Cagliari",
+    "date": "2023-12-02T17:00:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Frosinone",
+    "date": "2023-12-02T19:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Bologna",
+    "date": "2023-12-03T11:30:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Verona",
+    "date": "2023-12-03T14:00:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Salernitana",
+    "date": "2023-12-03T14:00:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "AS Roma",
+    "date": "2023-12-03T17:00:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Inter",
+    "date": "2023-12-03T19:45:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Atalanta",
+    "date": "2023-12-04T19:45:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "Napoli",
+    "date": "2023-12-08T19:45:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Lazio",
+    "date": "2023-12-09T14:00:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "AC Milan",
+    "date": "2023-12-09T17:00:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Udinese",
+    "date": "2023-12-09T19:45:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Torino",
+    "date": "2023-12-10T11:30:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Genoa",
+    "date": "2023-12-10T14:00:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "Bologna",
+    "date": "2023-12-10T17:00:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Fiorentina",
+    "date": "2023-12-10T19:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Lecce",
+    "date": "2023-12-11T17:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Sassuolo",
+    "date": "2023-12-11T19:45:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Juventus",
+    "date": "2023-12-15T19:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Lecce",
+    "away_team": "Frosinone",
+    "date": "2023-12-16T14:00:00+00:00",
+    "local": "Stadio Ettore Giardiniero - Via del Mare, Lecce"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Cagliari",
+    "date": "2023-12-16T17:00:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Empoli",
+    "date": "2023-12-16T19:45:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Monza",
+    "date": "2023-12-17T11:30:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Sassuolo",
+    "date": "2023-12-17T14:00:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Verona",
+    "date": "2023-12-17T14:00:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "AS Roma",
+    "date": "2023-12-17T17:00:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Inter",
+    "date": "2023-12-17T19:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Salernitana",
+    "date": "2023-12-18T19:45:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "Sassuolo",
+    "away_team": "Genoa",
+    "date": "2023-12-22T17:30:00+00:00",
+    "local": "MAPEI Stadium - Città del Tricolore, Reggio Emilia"
+  },
+  {
+    "home_team": "Empoli",
+    "away_team": "Lazio",
+    "date": "2023-12-22T17:30:00+00:00",
+    "local": "Stadio Carlo Castellani – Computer Gross Arena, Empoli"
+  },
+  {
+    "home_team": "Salernitana",
+    "away_team": "AC Milan",
+    "date": "2023-12-22T19:45:00+00:00",
+    "local": "Stadio Arechi, Salerno"
+  },
+  {
+    "home_team": "Monza",
+    "away_team": "Fiorentina",
+    "date": "2023-12-22T19:45:00+00:00",
+    "local": "U-Power Stadium, Monza"
+  },
+  {
+    "home_team": "Frosinone",
+    "away_team": "Juventus",
+    "date": "2023-12-23T11:30:00+00:00",
+    "local": "Stadio Benito Stirpe, Frosinone"
+  },
+  {
+    "home_team": "Bologna",
+    "away_team": "Atalanta",
+    "date": "2023-12-23T14:00:00+00:00",
+    "local": "Stadio Renato Dall'Ara, Bologna"
+  },
+  {
+    "home_team": "Torino",
+    "away_team": "Udinese",
+    "date": "2023-12-23T14:00:00+00:00",
+    "local": "Stadio Olimpico Grande Torino, Torino"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Cagliari",
+    "date": "2023-12-23T17:00:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Inter",
+    "away_team": "Lecce",
+    "date": "2023-12-23T17:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "AS Roma",
+    "away_team": "Napoli",
+    "date": "2023-12-23T19:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Napoli",
+    "away_team": "Monza",
+    "date": "2023-12-29T17:30:00+00:00",
+    "local": "Stadio Diego Armando Maradona, Napoli"
+  },
+  {
+    "home_team": "Fiorentina",
+    "away_team": "Torino",
+    "date": "2023-12-29T17:30:00+00:00",
+    "local": "Stadio Artemio Franchi, Firenze"
+  },
+  {
+    "home_team": "Lazio",
+    "away_team": "Frosinone",
+    "date": "2023-12-29T19:45:00+00:00",
+    "local": "Stadio Olimpico, Roma"
+  },
+  {
+    "home_team": "Genoa",
+    "away_team": "Inter",
+    "date": "2023-12-29T19:45:00+00:00",
+    "local": "Stadio Comunale Luigi Ferraris, Genova"
+  },
+  {
+    "home_team": "Atalanta",
+    "away_team": "Lecce",
+    "date": "2023-12-30T11:30:00+00:00",
+    "local": "Gewiss Stadium, Bergamo"
+  },
+  {
+    "home_team": "Cagliari",
+    "away_team": "Empoli",
+    "date": "2023-12-30T14:00:00+00:00",
+    "local": "Unipol Domus, Cagliari"
+  },
+  {
+    "home_team": "Udinese",
+    "away_team": "Bologna",
+    "date": "2023-12-30T14:00:00+00:00",
+    "local": "Bluenergy Stadium, Udine"
+  },
+  {
+    "home_team": "AC Milan",
+    "away_team": "Sassuolo",
+    "date": "2023-12-30T17:00:00+00:00",
+    "local": "Stadio Giuseppe Meazza, Milano"
+  },
+  {
+    "home_team": "Verona",
+    "away_team": "Salernitana",
+    "date": "2023-12-30T17:00:00+00:00",
+    "local": "Stadio Marcantonio Bentegodi, Verona"
+  },
+  {
+    "home_team": "Juventus",
+    "away_team": "AS Roma",
+    "date": "2023-12-30T19:45:00+00:00",
+    "local": "Allianz Stadium, Torino"
+  }
+]

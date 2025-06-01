@@ -10,7 +10,7 @@ HEADERS = {
 }
 
 params = {
-    "league": 140,        # Brasileirão Série A
+    "league": 135,        # Brasileirão Série A
     "season": 2023,      # Temporada
     "from": "2023-01-01",
     "to": "2023-12-31"
@@ -41,7 +41,7 @@ for match in data.get("response", []):
 # Saída em JSON
 print(json.dumps(all_matches, indent=2, ensure_ascii=False))
 # Save the output to a JSON file
-output_file = "matches_laliga.json"
+output_file = "matches_seriea.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(all_matches, f, indent=2, ensure_ascii=False)
 
